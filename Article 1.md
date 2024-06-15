@@ -1,0 +1,31 @@
+# Article 1. Role of Sponsor
+
+1. Funding. Sponsor has committed up to 1% of the total token supply of the Network to the Program to provide a reward structure for Ambassadors.
+
+   1. Token Awards. Sponsor shall make available the necessary tokens to provide for the token grants specified in Article 2 Paragraphs 5 and 7.
+   2. Distribution of Tokens. Tokens that have been earned and vested under the Program may begin distribution to Ambassadors upon the launch of Mainnet Beta. All tokens distributed to Ambassadors under this Program at the beginning of Mainnet Beta will be subject to a 6-month lockup, meaning the tokens will not be transferable until 6 months after the launch of Mainnet Beta. The lockup period is static, so tokens vested and distributed 3 months after Mainnet Beta begins would be locked for a subsequent 3 months. Earned and vested tokens are able to be claimed (after the lockup period) by each Ambassador at any time.
+
+2. Ambassador Agreements. The Ambassador agreements are between Sponsor and each Ambassador and implement the Bylaws between the Sponsor and the Ambassador (the “Ambassador Agreement(s)”). If there are conflicts between an Ambassador Agreement and these Bylaws, Sponsor and the relevant Ambassador(s) shall work in good faith to complete amendments to conform with the Bylaws as in effect at the execution of the Agreement.
+
+3. Oversight. Sponsor shall maintain oversight of the Program as defined in this paragraph.
+
+   1. Sponsor Representative. Sponsor shall appoint one representative to provide oversight of the Program at all times.
+   2. Sponsor Representative Replacement. Sponsor may recall and replace its representative.The Ambassadors may, by a Supermajority Decision, request that the Sponsor replace its representative. Sponsor shall replace its representative within 90 days after receipt of a replacement request unless a subsequent Supermajority Decision of the Ambassadors withdraws the request within 30 days of the original request.
+   3. Sponsor Veto and Sponsor Consent. These Bylaws, and any Agreements that amend these Bylaws, are effective when consented to by the Sponsor Representative. Sponsor shall consent to Agreements made with a Supermajority Decision unless Sponsor objects for specific reasons below, provided via written response explaining the reason for the Veto, along with suggested modifications that may be taken to obtain support.
+
+      1. Violation Veto. Sponsor may veto an amendment that violates, or is reasonably expected to cause a violation of, the Sponsor’s governing documents or vendor contracts.
+      2. Risk Veto. Sponsor may veto an amendment that is likely, in the opinion of the Sponsor, to expose the Program or the Network to significant risk, and there are not sufficient mechanisms in place, in the opinion of the Sponsor, to reasonably avoid, control, or compensate for the risk.
+
+   4. Admission of Ambassadors. An Ambassador shall be admitted to the Program upon the signing of an Ambassador Agreement with Sponsor. The agreement shall include the Rights and Obligations specified in these Bylaws. Within thirty days of selection, Sponsor shall conduct its due diligence to determine whether it shall enter into an Agreement with the person recommended for admission. If satisfied, Sponsor shall execute the Ambassador Agreement and notify the designated team responsible for onboarding new Ambassadors (“Onboarding and Growth Team”). If Sponsor declines to enter into an Ambassador Agreement, Sponsor shall communicate directly with the proposed Ambassador and shall inform the Onboarding and Growth Team that Sponsor is denying the admission.
+
+   5. Termination of Ambassadors. Upon the resignation of an Ambassador or Lead Ambassador, or the resignation of a Lead Ambassador who will continue to serve as an Ambassador, or receipt of a request to terminate an Ambassador as an outcome of the Conflict Resolution process, Sponsor shall terminate the related Agreements promptly. Sponsor will not unilaterally terminate an Ambassador except in the case of gross misconduct, as determined in Sponsor’s sole discretion, but will use the Conflict Resolution process.
+
+   6. Appointment of Lead Ambassadors. Upon notification of the selection of an Ambassador to become a Lead Ambassador, Sponsor shall conduct its due diligence to confirm the Ambassador is in Good Standing and then shall effectuate the additional responsibilities and compensation for a Lead Ambassador. If Sponsor determines the Ambassador is not in Good Standing, Sponsor shall decline the Lead appointment, and instead shall create a Complaint in the Conflict Resolution process.
+
+   7. Demotion of Lead Ambassadors. Upon i) the resignation of a Lead Ambassador from the Lead role, ii) a Conflict Resolution determination that a Lead Ambassador be demoted, iii) a notification from the relevant team that they have recalled the Lead Ambassador, Sponsor shall work to amend the Ambassador Agreement (if needed) to remove the Lead role and to stop further compensation attributable to the performance of the Lead Ambassador role.
+
+4. Termination Rights. At any time after the full vesting and payment of any and all consideration under this Program by Sponsor or its affiliates to each and every Ambassador, Sponsor may, but shall not be required to, terminate this Ambassador Program and shall be free of its obligations hereunder after the expiration or termination of each and every Ambassador Agreement.
+
+5. Messaging and Policies. Sponsor is responsible for setting the general direction and suggested content for marketing and communications messaging, which may be implemented and promulgated by Ambassadors. Sponsor is also responsible for setting policies related to the use of assets, platforms, communications channels, etc. held by Sponsor which may be used, administered, or moderated by Ambassadors.
+
+6. Delegation to Ambassadors. All responsibilities for the oversight and administration of the Program not reserved for Sponsor in this Article shall be held by the Ambassadors in accordance with these Bylaws.
